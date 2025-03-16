@@ -1,0 +1,6 @@
+You: hello
+Bot: Hi how can I help you?
+------------------------------
+You: how are you
+Bot: I'm doing great
+------------------------------
